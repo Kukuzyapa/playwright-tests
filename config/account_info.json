@@ -1,0 +1,25 @@
+{
+  "title": "Mr.",
+  "name": "autouser",
+  "email": "demoqa@test.com",
+  "password": "demoqa123",
+  "date_of_birth": {
+    "day": "12",
+    "month": "July",
+    "year": "1990"
+  },
+  "newsletter": true,
+  "special_offers": true,
+  "address": {
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "company": "a1qa",
+    "address": "red square 1, kremlin",
+    "address2": "red square 2, magnit",
+    "country": "Canada",
+    "state": "Bowl",
+    "city": "Toronto",
+    "zipcode": "123456",
+    "mobile_number": "67345312901"
+  }
+}
